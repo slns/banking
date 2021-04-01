@@ -6,7 +6,7 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/slns/banking/app/service"
+	"github.com/slns/banking/service"
 )
 
 type CustomerHandlers struct {

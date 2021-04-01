@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/slns/banking/app"
-	"github.com/slns/banking/app/logger"
+	"github.com/slns/banking/logger"
 )
 
 func main() {
